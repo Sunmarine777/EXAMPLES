@@ -1,0 +1,14 @@
+C:\Users\Marina\Desktop\Examples\Example001\bin\Debug\net8.0\Example001.exe
+C:\Users\Marina\Desktop\Examples\Example001\bin\Debug\net8.0\Example001.deps.json
+C:\Users\Marina\Desktop\Examples\Example001\bin\Debug\net8.0\Example001.runtimeconfig.json
+C:\Users\Marina\Desktop\Examples\Example001\bin\Debug\net8.0\Example001.dll
+C:\Users\Marina\Desktop\Examples\Example001\bin\Debug\net8.0\Example001.pdb
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\Example001.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\Example001.AssemblyInfo.cs
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\Example001.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\Example001.dll
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\refint\Example001.dll
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\Example001.pdb
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\Example001.genruntimeconfig.cache
+C:\Users\Marina\Desktop\Examples\Example001\obj\Debug\net8.0\ref\Example001.dll
